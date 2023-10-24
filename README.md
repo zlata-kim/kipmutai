@@ -1,4 +1,4 @@
 # kipmutai
-website developer
-cyrbe sec
+website developer,
+cyrbe sec,
 networking 
